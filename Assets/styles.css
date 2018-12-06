@@ -1,47 +1,44 @@
 body {
-				background-color: white;
-				background-repeat: no-repeat;
-				background-size: 100%;
-				padding: 1.5%;
-				font-family: 'Space Mono', monospace;
-				color: black;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 1.5%;
+	font-family: 'Space Mono', monospace;
+	color: black;
 
-			}
-			div {
-				padding: 1.5%;
-			}
-			.customWrap1 {
-				color: black;
-			}
-			hr {
-				color: black;
-			}
-			.switch {
-				width: 20%;
-			}
-
-			a {
-				color: skyblue;
-			}
-
-			.small {
-				height: 0
-			}
-			button {
-				width: 100%;
-				background-color: black;
-			}
-
-			.section {
-				text-align: center;
-			}
-
-			h3, h4, ul, li {
-				color: black;
-			}
-
-@font-face {
-    font-family: myFirstFont;
-    src: url(/Assets/kaiu.ttf);
 }
+div {
+	padding: 1.5%;
+}
+.customWrap1 {
+	color: black;
+}
+hr {
+	color: black;
+}
+.switch {
+	width: 20%;
+}
+
+a {
+	color: skyblue;
+}
+
+.small {
+	height: 0
+}
+button {
+	width: 100%;
+	background-color: black;
+}
+
+.section {
+	text-align: center;
+}
+
+h3, h4, ul, li {
+	color: black;
+}
+
+
 
