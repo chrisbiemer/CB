@@ -6,11 +6,11 @@
   //extensive preparation, yet at this early stage I decided to use a linked list to make sure the application functioned as intended
 
   //names of various folders
-var categories = ["AssortedHarmony", "VariousImages"];
+var categories = ["AssortedHarmony", "DataSystemPrebuilds", "LocalImageBase"];
 
 
   //linked list with number of images per folder updated before each commit
-var tally = [59, 117];
+var tally = [59, 8, 117];
 
 /////
 
